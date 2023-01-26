@@ -1,1 +1,3 @@
-# P-iv-n-sana-bot
+# Paivan-sana-bot
+
+Twitter-bot with Python
